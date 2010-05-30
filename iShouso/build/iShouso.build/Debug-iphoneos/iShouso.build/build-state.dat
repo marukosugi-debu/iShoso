@@ -1,0 +1,379 @@
+TiShouso
+v7
+r0
+t296864344.811735
+cCheck dependencies
+cCpResource build/Debug-iphoneos/iShouso.app/ResourceRules.plist /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/ResourceRules.plist
+cProcessInfoPlistFile /Users/jari/Desktop/iShouso/build/Debug-iphoneos/iShouso.app/Info.plist iShouso-Info.plist
+cCompileXIB /Users/jari/Desktop/iShouso/iShousoViewController.xib
+cCopyPNGFile /Users/jari/Desktop/iShouso/build/Debug-iphoneos/iShouso.app/icon.png icon.png
+cCopyPNGFile /Users/jari/Desktop/iShouso/build/Debug-iphoneos/iShouso.app/shouso.png shouso.png
+cCopyPNGFile /Users/jari/Desktop/iShouso/build/Debug-iphoneos/iShouso.app/default.png default.png
+cCompileXIB /Users/jari/Desktop/iShouso/MainWindow.xib
+cProcessPCH /var/folders/3B/3BBl9P4tGbWWqAOIOykUl++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iShouso_Prefix-hdbxqsbuzixnwmdvmcpnlqncghvp/iShouso_Prefix.pch.gch iShouso_Prefix.pch normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/iShouso.build/Debug-iphoneos/iShouso.build/Objects-normal/armv7/main.o /Users/jari/Desktop/iShouso/main.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/iShouso.build/Debug-iphoneos/iShouso.build/Objects-normal/armv7/iShousoAppDelegate.o /Users/jari/Desktop/iShouso/Classes/iShousoAppDelegate.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/iShouso.build/Debug-iphoneos/iShouso.build/Objects-normal/armv7/iShousoViewController.o /Users/jari/Desktop/iShouso/Classes/iShousoViewController.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/jari/Desktop/iShouso/build/Debug-iphoneos/iShouso.app/iShouso normal armv7
+cGenerateDSYMFile /Users/jari/Desktop/iShouso/build/Debug-iphoneos/iShouso.app.dSYM /Users/jari/Desktop/iShouso/build/Debug-iphoneos/iShouso.app/iShouso
+cProcessProductPackaging "/Users/jari/Library/MobileDevice/Provisioning Profiles/F3139F9E-E957-4247-898F-79A62447F581.mobileprovision" /Users/jari/Desktop/iShouso/build/Debug-iphoneos/iShouso.app/embedded.mobileprovision
+cTouch /Users/jari/Desktop/iShouso/build/Debug-iphoneos/iShouso.app
+cProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/Entitlements.plist /Users/jari/Desktop/iShouso/build/iShouso.build/Debug-iphoneos/iShouso.build/iShouso.xcent
+cCodeSign /Users/jari/Desktop/iShouso/build/Debug-iphoneos/iShouso.app
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk
+c000000004BA82B910000000000000110
+t1269312401
+s272
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/Entitlements.plist
+c000000004B9F103D00000000000000DD
+t1268715581
+s221
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/ResourceRules.plist
+c000000004B9F103D00000000000001E5
+t1268715581
+s485
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004BA03AC100000000003B4B70
+t1268792001
+s3885936
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004B9F26D2000000000036A650
+t1268721362
+s3581520
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004B9F26B90000000000001355
+t1268721337
+s4949
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004B9F318D000000000000098F
+t1268724109
+s2447
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004B9F32090000000002703230
+t1268724233
+s40907312
+
+N/Users/jari/Desktop/iShouso/Classes/iShousoAppDelegate.h
+c000000004C00F0EF00000000000001E1
+t1275130095
+s481
+i<UIKit/UIKit.h>
+
+N/Users/jari/Desktop/iShouso/Classes/iShousoAppDelegate.m
+c000000004C018A0F0000000000000831
+t1275169295
+s2097
+i"iShousoAppDelegate.h"
+i"iShousoViewController.h"
+
+N/Users/jari/Desktop/iShouso/Classes/iShousoViewController.h
+c000000004C018C50000000000000012F
+t1275169872
+s303
+i<UIKit/UIKit.h>
+
+N/Users/jari/Desktop/iShouso/Classes/iShousoViewController.m
+c000000004C0192D30000000000000D65
+t1275171539
+s3429
+i"iShousoViewController.h"
+
+N/Users/jari/Desktop/iShouso/MainWindow.xib
+c000000004C00F0EF0000000000004D09
+t1275130095
+s19721
+
+N/Users/jari/Desktop/iShouso/build/Debug-iphoneos/iShouso.app
+t1275171544
+s476
+
+N/Users/jari/Desktop/iShouso/build/Debug-iphoneos/iShouso.app.dSYM
+t1275171543
+s102
+
+N/Users/jari/Desktop/iShouso/build/Debug-iphoneos/iShouso.app/Info.plist
+t1275171080
+s959
+
+N/Users/jari/Desktop/iShouso/build/Debug-iphoneos/iShouso.app/MainWindow.nib
+t1275130671
+s1123
+
+N/Users/jari/Desktop/iShouso/build/Debug-iphoneos/iShouso.app/PkgInfo
+t1275171080
+s8
+
+N/Users/jari/Desktop/iShouso/build/Debug-iphoneos/iShouso.app/ResourceRules.plist
+t1275130666
+s485
+
+N/Users/jari/Desktop/iShouso/build/Debug-iphoneos/iShouso.app/default.png
+t1275144669
+s30307
+
+N/Users/jari/Desktop/iShouso/build/Debug-iphoneos/iShouso.app/embedded.mobileprovision
+t1275130676
+s7185
+
+N/Users/jari/Desktop/iShouso/build/Debug-iphoneos/iShouso.app/iShouso
+t1275171543
+s23728
+
+N/Users/jari/Desktop/iShouso/build/Debug-iphoneos/iShouso.app/iShousoViewController.nib
+t1275130671
+s764
+
+N/Users/jari/Desktop/iShouso/build/Debug-iphoneos/iShouso.app/icon.png
+t1275143496
+s9204
+
+N/Users/jari/Desktop/iShouso/build/Debug-iphoneos/iShouso.app/shouso.png
+t1275143497
+s30307
+
+N/Users/jari/Desktop/iShouso/build/iShouso.build/Debug-iphoneos/iShouso.build/Objects-normal/armv7/iShouso.LinkFileList
+c000000004C00F32A000000000000015A
+t1275130666
+s346
+
+N/Users/jari/Desktop/iShouso/build/iShouso.build/Debug-iphoneos/iShouso.build/Objects-normal/armv7/iShousoAppDelegate.o
+t1275171081
+s45828
+
+N/Users/jari/Desktop/iShouso/build/iShouso.build/Debug-iphoneos/iShouso.build/Objects-normal/armv7/iShousoViewController.o
+t1275171543
+s43096
+
+N/Users/jari/Desktop/iShouso/build/iShouso.build/Debug-iphoneos/iShouso.build/Objects-normal/armv7/main.o
+t1275171081
+s6400
+
+N/Users/jari/Desktop/iShouso/build/iShouso.build/Debug-iphoneos/iShouso.build/iShouso.xcent
+t1275171082
+s400
+
+N/Users/jari/Desktop/iShouso/default.png
+c000000004C011985000000000000733D
+t1275140485
+s29501
+
+N/Users/jari/Desktop/iShouso/iShousoViewController.xib
+c000000004C00F0EF0000000000003EE1
+t1275130095
+s16097
+
+N/Users/jari/Desktop/iShouso/iShouso_Prefix.pch
+c000000004C00F0EF00000000000000B7
+t1275130095
+s183
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/jari/Desktop/iShouso/icon.png
+c000000004BFBC82D000000000000220D
+t1274791981
+s8717
+
+N/Users/jari/Desktop/iShouso/main.m
+c000000004C0189A4000000000000016B
+t1275169188
+s363
+i<UIKit/UIKit.h>
+
+N/Users/jari/Desktop/iShouso/shouso.png
+c000000004C011985000000000000733D
+t1275140485
+s29501
+
+N/Users/jari/Library/MobileDevice/Provisioning Profiles/F3139F9E-E957-4247-898F-79A62447F581.mobileprovision
+c000000004C00DFF60000000000001C11
+t1275125750
+s7185
+
+N/var/folders/3B/3BBl9P4tGbWWqAOIOykUl++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iShouso_Prefix-hdbxqsbuzixnwmdvmcpnlqncghvp/iShouso_Prefix.pch.gch
+t1275130674
+s9421460
+
+NiShouso-Info.plist
+c000000004C018B7300000000000004B9
+t1275169651
+s1209
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies296864342#296864342#0(0"0(0#1#0"8653544128#0"0#
+
+CCodeSign /Users/jari/Desktop/iShouso/build/Debug-iphoneos/iShouso.app
+s296864343.507808
+e296864344.811610
+r1
+xCodeSign
+x/Users/jari/Desktop/iShouso/build/Debug-iphoneos/iShouso.app
+lSLF07#2@41"CodeSign build/Debug-iphoneos/iShouso.app296864343#296864344#0(0"0(0#0#60"/Users/jari/Desktop/iShouso/build/Debug-iphoneos/iShouso.app8654429376#606"    cd /Users/jari/Desktop/iShouso    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv _CODESIGN_ALLOCATE_ /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/codesign_allocate    /usr/bin/codesign -f -s "iPhone Developer: ishikawa naoki (8R45AWBME9)" --resource-rules=/Users/jari/Desktop/iShouso/build/Debug-iphoneos/iShouso.app/ResourceRules.plist --entitlements /Users/jari/Desktop/iShouso/build/iShouso.build/Debug-iphoneos/iShouso.build/iShouso.xcent /Users/jari/Desktop/iShouso/build/Debug-iphoneos/iShouso.app0#
+
+CCompileC build/iShouso.build/Debug-iphoneos/iShouso.build/Objects-normal/armv7/iShousoAppDelegate.o /Users/jari/Desktop/iShouso/Classes/iShousoAppDelegate.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s296863880.822923
+e296863881.582138
+r1
+xCompileC
+xbuild/iShouso.build/Debug-iphoneos/iShouso.build/Objects-normal/armv7/iShousoAppDelegate.o
+x/Users/jari/Desktop/iShouso/Classes/iShousoAppDelegate.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@64"Compile /Users/jari/Desktop/iShouso/Classes/iShousoAppDelegate.m296863880#296863881#0(0"0(0#0#56"/Users/jari/Desktop/iShouso/Classes/iShousoAppDelegate.m8647230368#1639"    cd /Users/jari/Desktop/iShouso    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.2 -iquote /Users/jari/Desktop/iShouso/build/iShouso.build/Debug-iphoneos/iShouso.build/iShouso-generated-files.hmap -I/Users/jari/Desktop/iShouso/build/iShouso.build/Debug-iphoneos/iShouso.build/iShouso-own-target-headers.hmap -I/Users/jari/Desktop/iShouso/build/iShouso.build/Debug-iphoneos/iShouso.build/iShouso-all-target-headers.hmap -iquote /Users/jari/Desktop/iShouso/build/iShouso.build/Debug-iphoneos/iShouso.build/iShouso-project-headers.hmap -F/Users/jari/Desktop/iShouso/build/Debug-iphoneos -I/Users/jari/Desktop/iShouso/build/Debug-iphoneos/include -I/Users/jari/Desktop/iShouso/build/iShouso.build/Debug-iphoneos/iShouso.build/DerivedSources/armv7 -I/Users/jari/Desktop/iShouso/build/iShouso.build/Debug-iphoneos/iShouso.build/DerivedSources -include /var/folders/3B/3BBl9P4tGbWWqAOIOykUl++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iShouso_Prefix-hdbxqsbuzixnwmdvmcpnlqncghvp/iShouso_Prefix.pch -c /Users/jari/Desktop/iShouso/Classes/iShousoAppDelegate.m -o /Users/jari/Desktop/iShouso/build/iShouso.build/Debug-iphoneos/iShouso.build/Objects-normal/armv7/iShousoAppDelegate.o0#
+
+CCompileC build/iShouso.build/Debug-iphoneos/iShouso.build/Objects-normal/armv7/iShousoViewController.o /Users/jari/Desktop/iShouso/Classes/iShousoViewController.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s296864342.794932
+e296864343.124477
+r1
+xCompileC
+xbuild/iShouso.build/Debug-iphoneos/iShouso.build/Objects-normal/armv7/iShousoViewController.o
+x/Users/jari/Desktop/iShouso/Classes/iShousoViewController.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@67"Compile /Users/jari/Desktop/iShouso/Classes/iShousoViewController.m296864342#296864343#0(0"0(0#0#59"/Users/jari/Desktop/iShouso/Classes/iShousoViewController.m8636772192#1645"    cd /Users/jari/Desktop/iShouso    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.2 -iquote /Users/jari/Desktop/iShouso/build/iShouso.build/Debug-iphoneos/iShouso.build/iShouso-generated-files.hmap -I/Users/jari/Desktop/iShouso/build/iShouso.build/Debug-iphoneos/iShouso.build/iShouso-own-target-headers.hmap -I/Users/jari/Desktop/iShouso/build/iShouso.build/Debug-iphoneos/iShouso.build/iShouso-all-target-headers.hmap -iquote /Users/jari/Desktop/iShouso/build/iShouso.build/Debug-iphoneos/iShouso.build/iShouso-project-headers.hmap -F/Users/jari/Desktop/iShouso/build/Debug-iphoneos -I/Users/jari/Desktop/iShouso/build/Debug-iphoneos/include -I/Users/jari/Desktop/iShouso/build/iShouso.build/Debug-iphoneos/iShouso.build/DerivedSources/armv7 -I/Users/jari/Desktop/iShouso/build/iShouso.build/Debug-iphoneos/iShouso.build/DerivedSources -include /var/folders/3B/3BBl9P4tGbWWqAOIOykUl++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iShouso_Prefix-hdbxqsbuzixnwmdvmcpnlqncghvp/iShouso_Prefix.pch -c /Users/jari/Desktop/iShouso/Classes/iShousoViewController.m -o /Users/jari/Desktop/iShouso/build/iShouso.build/Debug-iphoneos/iShouso.build/Objects-normal/armv7/iShousoViewController.o0#
+
+CCompileC build/iShouso.build/Debug-iphoneos/iShouso.build/Objects-normal/armv7/main.o /Users/jari/Desktop/iShouso/main.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s296863880.788441
+e296863881.507695
+r1
+xCompileC
+xbuild/iShouso.build/Debug-iphoneos/iShouso.build/Objects-normal/armv7/main.o
+x/Users/jari/Desktop/iShouso/main.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@42"Compile /Users/jari/Desktop/iShouso/main.m296863880#296863881#0(0"0(0#0#34"/Users/jari/Desktop/iShouso/main.m8648249664#1603"    cd /Users/jari/Desktop/iShouso    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.2 -iquote /Users/jari/Desktop/iShouso/build/iShouso.build/Debug-iphoneos/iShouso.build/iShouso-generated-files.hmap -I/Users/jari/Desktop/iShouso/build/iShouso.build/Debug-iphoneos/iShouso.build/iShouso-own-target-headers.hmap -I/Users/jari/Desktop/iShouso/build/iShouso.build/Debug-iphoneos/iShouso.build/iShouso-all-target-headers.hmap -iquote /Users/jari/Desktop/iShouso/build/iShouso.build/Debug-iphoneos/iShouso.build/iShouso-project-headers.hmap -F/Users/jari/Desktop/iShouso/build/Debug-iphoneos -I/Users/jari/Desktop/iShouso/build/Debug-iphoneos/include -I/Users/jari/Desktop/iShouso/build/iShouso.build/Debug-iphoneos/iShouso.build/DerivedSources/armv7 -I/Users/jari/Desktop/iShouso/build/iShouso.build/Debug-iphoneos/iShouso.build/DerivedSources -include /var/folders/3B/3BBl9P4tGbWWqAOIOykUl++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iShouso_Prefix-hdbxqsbuzixnwmdvmcpnlqncghvp/iShouso_Prefix.pch -c /Users/jari/Desktop/iShouso/main.m -o /Users/jari/Desktop/iShouso/build/iShouso.build/Debug-iphoneos/iShouso.build/Objects-normal/armv7/main.o0#
+
+CCompileXIB /Users/jari/Desktop/iShouso/MainWindow.xib
+s296823466.300620
+e296823471.880369
+r1
+xCompileXIB
+x/Users/jari/Desktop/iShouso/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib296823466#296823471#0(0"0(0#0#42"/Users/jari/Desktop/iShouso/MainWindow.xib8749594144#509"    cd /Users/jari/Desktop/iShouso    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.2    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/jari/Desktop/iShouso/build/Debug-iphoneos/iShouso.app/MainWindow.nib /Users/jari/Desktop/iShouso/MainWindow.xib --sdk /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk0#
+
+CCompileXIB /Users/jari/Desktop/iShouso/iShousoViewController.xib
+s296823466.309351
+e296823471.811042
+r1
+xCompileXIB
+x/Users/jari/Desktop/iShouso/iShousoViewController.xib
+lSLF07#2@36"CompileXIB iShousoViewController.xib296823466#296823471#0(0"0(0#0#53"/Users/jari/Desktop/iShouso/iShousoViewController.xib8749424352#531"    cd /Users/jari/Desktop/iShouso    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.2    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/jari/Desktop/iShouso/build/Debug-iphoneos/iShouso.app/iShousoViewController.nib /Users/jari/Desktop/iShouso/iShousoViewController.xib --sdk /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk0#
+
+CCopyPNGFile /Users/jari/Desktop/iShouso/build/Debug-iphoneos/iShouso.app/default.png default.png
+s296837469.407604
+e296837469.894096
+r1
+xCopyPNGFile
+x/Users/jari/Desktop/iShouso/build/Debug-iphoneos/iShouso.app/default.png
+xdefault.png
+lSLF07#2@68"CopyPNGFile build/Debug-iphoneos/iShouso.app/default.png default.png296837469#296837469#0(0"0(0#0#39"/Users/jari/Desktop/iShouso/default.png8631946688#529"    cd /Users/jari/Desktop/iShouso    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/jari/Desktop/iShouso/default.png /Users/jari/Desktop/iShouso/build/Debug-iphoneos/iShouso.app/default.png0#
+
+CCopyPNGFile /Users/jari/Desktop/iShouso/build/Debug-iphoneos/iShouso.app/icon.png icon.png
+s296836295.396320
+e296836296.148995
+r1
+xCopyPNGFile
+x/Users/jari/Desktop/iShouso/build/Debug-iphoneos/iShouso.app/icon.png
+xicon.png
+lSLF07#2@62"CopyPNGFile build/Debug-iphoneos/iShouso.app/icon.png icon.png296836295#296836296#0(0"0(0#0#36"/Users/jari/Desktop/iShouso/icon.png31244147623526448#523"    cd /Users/jari/Desktop/iShouso    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/jari/Desktop/iShouso/icon.png /Users/jari/Desktop/iShouso/build/Debug-iphoneos/iShouso.app/icon.png0#
+
+CCopyPNGFile /Users/jari/Desktop/iShouso/build/Debug-iphoneos/iShouso.app/shouso.png shouso.png
+s296836295.398730
+e296836297.076802
+r1
+xCopyPNGFile
+x/Users/jari/Desktop/iShouso/build/Debug-iphoneos/iShouso.app/shouso.png
+xshouso.png
+lSLF07#2@66"CopyPNGFile build/Debug-iphoneos/iShouso.app/shouso.png shouso.png296836295#296836297#0(0"0(0#0#38"/Users/jari/Desktop/iShouso/shouso.png8633077024#527"    cd /Users/jari/Desktop/iShouso    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/jari/Desktop/iShouso/shouso.png /Users/jari/Desktop/iShouso/build/Debug-iphoneos/iShouso.app/shouso.png0#
+
+CCpResource build/Debug-iphoneos/iShouso.app/ResourceRules.plist /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/ResourceRules.plist
+s296823466.060884
+e296823466.300520
+r1
+xCpResource
+xbuild/Debug-iphoneos/iShouso.app/ResourceRules.plist
+x/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/ResourceRules.plist
+lSLF07#2@94"Copy /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/ResourceRules.plist296823466#296823466#0(0"0(0#0#89"/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/ResourceRules.plist8749979936#458"    cd /Users/jari/Desktop/iShouso    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/ResourceRules.plist /Users/jari/Desktop/iShouso/build/Debug-iphoneos/iShouso.app0#
+
+CGenerateDSYMFile /Users/jari/Desktop/iShouso/build/Debug-iphoneos/iShouso.app.dSYM /Users/jari/Desktop/iShouso/build/Debug-iphoneos/iShouso.app/iShouso
+s296864343.246376
+e296864343.446528
+r1
+xGenerateDSYMFile
+x/Users/jari/Desktop/iShouso/build/Debug-iphoneos/iShouso.app.dSYM
+x/Users/jari/Desktop/iShouso/build/Debug-iphoneos/iShouso.app/iShouso
+lSLF07#2@95"GenerateDSYMFile build/Debug-iphoneos/iShouso.app.dSYM build/Debug-iphoneos/iShouso.app/iShouso296864343#296864343#0(0"0(0#0#68"/Users/jari/Desktop/iShouso/build/Debug-iphoneos/iShouso.app/iShouso8606242976#329"    cd /Users/jari/Desktop/iShouso    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/jari/Desktop/iShouso/build/Debug-iphoneos/iShouso.app/iShouso -o /Users/jari/Desktop/iShouso/build/Debug-iphoneos/iShouso.app.dSYM0#
+
+CLd /Users/jari/Desktop/iShouso/build/Debug-iphoneos/iShouso.app/iShouso normal armv7
+s296864343.124568
+e296864343.246002
+r1
+xLd
+x/Users/jari/Desktop/iShouso/build/Debug-iphoneos/iShouso.app/iShouso
+xnormal
+xarmv7
+lSLF07#2@73"Link /Users/jari/Desktop/iShouso/build/Debug-iphoneos/iShouso.app/iShouso296864343#296864343#0(0"0(0#0#0"8649916576#767"    cd /Users/jari/Desktop/iShouso    setenv IPHONEOS_DEPLOYMENT_TARGET 3.2    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -arch armv7 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk -L/Users/jari/Desktop/iShouso/build/Debug-iphoneos -F/Users/jari/Desktop/iShouso/build/Debug-iphoneos -filelist /Users/jari/Desktop/iShouso/build/iShouso.build/Debug-iphoneos/iShouso.build/Objects-normal/armv7/iShouso.LinkFileList -dead_strip -miphoneos-version-min=3.2 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/jari/Desktop/iShouso/build/Debug-iphoneos/iShouso.app/iShouso0#
+
+CProcessInfoPlistFile /Users/jari/Desktop/iShouso/build/Debug-iphoneos/iShouso.app/Info.plist iShouso-Info.plist
+s296863880.750932
+e296863880.787764
+r1
+xProcessInfoPlistFile
+x/Users/jari/Desktop/iShouso/build/Debug-iphoneos/iShouso.app/Info.plist
+xiShouso-Info.plist
+lSLF07#2@26"Process iShouso-Info.plist296863880#296863880#0(0"0(0#0#46"/Users/jari/Desktop/iShouso/iShouso-Info.plist8642912960#518"    cd /Users/jari/Desktop/iShouso    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility iShouso-Info.plist -genpkginfo /Users/jari/Desktop/iShouso/build/Debug-iphoneos/iShouso.app/PkgInfo -expandbuildsettings -format binary -platform iphoneos -resourcerulesfile /Users/jari/Desktop/iShouso/build/Debug-iphoneos/iShouso.app/ResourceRules.plist -o /Users/jari/Desktop/iShouso/build/Debug-iphoneos/iShouso.app/Info.plist0#
+
+CProcessPCH /var/folders/3B/3BBl9P4tGbWWqAOIOykUl++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iShouso_Prefix-hdbxqsbuzixnwmdvmcpnlqncghvp/iShouso_Prefix.pch.gch iShouso_Prefix.pch normal armv7 objective-c com.apple.compilers.gcc.4_2
+s296823471.880479
+e296823474.629756
+r1
+xProcessPCH
+x/var/folders/3B/3BBl9P4tGbWWqAOIOykUl++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iShouso_Prefix-hdbxqsbuzixnwmdvmcpnlqncghvp/iShouso_Prefix.pch.gch
+xiShouso_Prefix.pch
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@29"Precompile iShouso_Prefix.pch296823471#296823474#0(0"0(0#0#46"/Users/jari/Desktop/iShouso/iShouso_Prefix.pch8749379936#1512"    cd /Users/jari/Desktop/iShouso    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.2 -iquote /Users/jari/Desktop/iShouso/build/iShouso.build/Debug-iphoneos/iShouso.build/iShouso-generated-files.hmap -I/Users/jari/Desktop/iShouso/build/iShouso.build/Debug-iphoneos/iShouso.build/iShouso-own-target-headers.hmap -I/Users/jari/Desktop/iShouso/build/iShouso.build/Debug-iphoneos/iShouso.build/iShouso-all-target-headers.hmap -iquote /Users/jari/Desktop/iShouso/build/iShouso.build/Debug-iphoneos/iShouso.build/iShouso-project-headers.hmap -F/Users/jari/Desktop/iShouso/build/Debug-iphoneos -I/Users/jari/Desktop/iShouso/build/Debug-iphoneos/include -I/Users/jari/Desktop/iShouso/build/iShouso.build/Debug-iphoneos/iShouso.build/DerivedSources/armv7 -I/Users/jari/Desktop/iShouso/build/iShouso.build/Debug-iphoneos/iShouso.build/DerivedSources -c /Users/jari/Desktop/iShouso/iShouso_Prefix.pch -o /var/folders/3B/3BBl9P4tGbWWqAOIOykUl++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iShouso_Prefix-hdbxqsbuzixnwmdvmcpnlqncghvp/iShouso_Prefix.pch.gch0#
+
+CProcessProductPackaging "/Users/jari/Library/MobileDevice/Provisioning Profiles/F3139F9E-E957-4247-898F-79A62447F581.mobileprovision" /Users/jari/Desktop/iShouso/build/Debug-iphoneos/iShouso.app/embedded.mobileprovision
+s296823476.392338
+e296823476.501429
+r1
+xProcessProductPackaging
+x/Users/jari/Library/MobileDevice/Provisioning Profiles/F3139F9E-E957-4247-898F-79A62447F581.mobileprovision
+x/Users/jari/Desktop/iShouso/build/Debug-iphoneos/iShouso.app/embedded.mobileprovision
+lSLF07#2@191"ProcessProductPackaging "/Users/jari/Library/MobileDevice/Provisioning Profiles/F3139F9E-E957-4247-898F-79A62447F581.mobileprovision" build/Debug-iphoneos/iShouso.app/embedded.mobileprovision296823476#296823476#0(0"0(0#0#85"/Users/jari/Desktop/iShouso/build/Debug-iphoneos/iShouso.app/embedded.mobileprovision8749291968#400"    cd /Users/jari/Desktop/iShouso    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    <com.apple.tools.product-pkg-utility> "/Users/jari/Library/MobileDevice/Provisioning Profiles/F3139F9E-E957-4247-898F-79A62447F581.mobileprovision" -o /Users/jari/Desktop/iShouso/build/Debug-iphoneos/iShouso.app/embedded.mobileprovision0#
+
+CProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/Entitlements.plist /Users/jari/Desktop/iShouso/build/iShouso.build/Debug-iphoneos/iShouso.build/iShouso.xcent
+s296863881.969486
+e296863882.053301
+r1
+xProcessProductPackaging
+x/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/Entitlements.plist
+x/Users/jari/Desktop/iShouso/build/iShouso.build/Debug-iphoneos/iShouso.build/iShouso.xcent
+lSLF07#2@175"ProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/Entitlements.plist build/iShouso.build/Debug-iphoneos/iShouso.build/iShouso.xcent296863881#296863882#0(0"0(0#0#90"/Users/jari/Desktop/iShouso/build/iShouso.build/Debug-iphoneos/iShouso.build/iShouso.xcent8633873216#410"    cd /Users/jari/Desktop/iShouso    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    <com.apple.tools.product-pkg-utility> /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/Entitlements.plist -entitlements -format xml -o /Users/jari/Desktop/iShouso/build/iShouso.build/Debug-iphoneos/iShouso.build/iShouso.xcent0#
+
+CTouch /Users/jari/Desktop/iShouso/build/Debug-iphoneos/iShouso.app
+s296864343.446721
+e296864343.507614
+r1
+xTouch
+x/Users/jari/Desktop/iShouso/build/Debug-iphoneos/iShouso.app
+lSLF07#2@66"Touch /Users/jari/Desktop/iShouso/build/Debug-iphoneos/iShouso.app296864343#296864343#0(0"0(0#0#0"8654823456#242"    cd /Users/jari/Desktop/iShouso    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/jari/Desktop/iShouso/build/Debug-iphoneos/iShouso.app0#
+

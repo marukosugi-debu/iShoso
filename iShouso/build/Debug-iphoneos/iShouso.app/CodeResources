@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>files</key>
+	<dict>
+		<key>MainWindow.nib</key>
+		<data>
+		poF1xrDQwUugYbMD5pNuN3ANirU=
+		</data>
+		<key>PkgInfo</key>
+		<data>
+		n57qDP4tZfLD1rCS43W0B4LQjzE=
+		</data>
+		<key>default.png</key>
+		<data>
+		q6RT0DoBIHpJJ1IyZFvesv6gwOU=
+		</data>
+		<key>embedded.mobileprovision</key>
+		<data>
+		1Vxha2KJyDp8keywB/tyi75HrLM=
+		</data>
+		<key>iShousoViewController.nib</key>
+		<data>
+		eg1L9RNvzTVcSdFYhPQW6BTFvB4=
+		</data>
+		<key>icon.png</key>
+		<data>
+		I0isHTYCrJuI2eiZFIowqSEjy3I=
+		</data>
+		<key>shouso.png</key>
+		<data>
+		q6RT0DoBIHpJJ1IyZFvesv6gwOU=
+		</data>
+	</dict>
+	<key>rules</key>
+	<dict>
+		<key>.*</key>
+		<true/>
+		<key>Info.plist</key>
+		<dict>
+			<key>omit</key>
+			<true/>
+			<key>weight</key>
+			<real>10</real>
+		</dict>
+		<key>ResourceRules.plist</key>
+		<dict>
+			<key>omit</key>
+			<true/>
+			<key>weight</key>
+			<real>100</real>
+		</dict>
+	</dict>
+</dict>
+</plist>

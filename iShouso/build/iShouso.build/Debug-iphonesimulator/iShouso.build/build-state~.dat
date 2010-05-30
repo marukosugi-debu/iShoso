@@ -1,0 +1,298 @@
+TiShouso
+v7
+r0
+t296833723.277849
+cCheck dependencies
+cProcessInfoPlistFile /Users/jari/Desktop/iShouso/build/Debug-iphonesimulator/iShouso.app/Info.plist iShouso-Info.plist
+cCompileXIB /Users/jari/Desktop/iShouso/MainWindow.xib
+cCompileXIB /Users/jari/Desktop/iShouso/iShousoViewController.xib
+cCpResource build/Debug-iphonesimulator/iShouso.app/icon.png icon.png
+cCpResource build/Debug-iphonesimulator/iShouso.app/shouso.png shouso.png
+cProcessPCH /var/folders/3B/3BBl9P4tGbWWqAOIOykUl++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iShouso_Prefix-baliubhpuimwneaorznjbwubqmjd/iShouso_Prefix.pch.gch iShouso_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/iShouso.build/Debug-iphonesimulator/iShouso.build/Objects-normal/i386/main.o /Users/jari/Desktop/iShouso/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/iShouso.build/Debug-iphonesimulator/iShouso.build/Objects-normal/i386/iShousoAppDelegate.o /Users/jari/Desktop/iShouso/Classes/iShousoAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/iShouso.build/Debug-iphonesimulator/iShouso.build/Objects-normal/i386/iShousoViewController.o /Users/jari/Desktop/iShouso/Classes/iShousoViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/jari/Desktop/iShouso/build/Debug-iphonesimulator/iShouso.app/iShouso normal i386
+cGenerateDSYMFile /Users/jari/Desktop/iShouso/build/Debug-iphonesimulator/iShouso.app.dSYM /Users/jari/Desktop/iShouso/build/Debug-iphonesimulator/iShouso.app/iShouso
+cTouch /Users/jari/Desktop/iShouso/build/Debug-iphonesimulator/iShouso.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk
+c000000004BD236930000000000000110
+t1272067731
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004BD1CD90000000000026F020
+t1272040848
+s2551840
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004BD1FFC200000000002A96A0
+t1272053698
+s2791072
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004BD1FF9E0000000000001355
+t1272053662
+s4949
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004BD20412000000000000098F
+t1272054802
+s2447
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004BD20471000000000222E640
+t1272054897
+s35841600
+
+N/Users/jari/Desktop/iShouso/Classes/iShousoAppDelegate.h
+c000000004C00F0EF00000000000001E1
+t1275130095
+s481
+i<UIKit/UIKit.h>
+
+N/Users/jari/Desktop/iShouso/Classes/iShousoAppDelegate.m
+c000000004C00F0EF00000000000007AC
+t1275130095
+s1964
+i"iShousoAppDelegate.h"
+i"iShousoViewController.h"
+
+N/Users/jari/Desktop/iShouso/Classes/iShousoViewController.h
+c000000004C00F0EF00000000000000F0
+t1275130095
+s240
+i<UIKit/UIKit.h>
+
+N/Users/jari/Desktop/iShouso/Classes/iShousoViewController.m
+c000000004C011B3600000000000007F6
+t1275140918
+s2038
+i"iShousoViewController.h"
+
+N/Users/jari/Desktop/iShouso/MainWindow.xib
+c000000004C00F0EF0000000000004D09
+t1275130095
+s19721
+
+N/Users/jari/Desktop/iShouso/build/Debug-iphonesimulator/iShouso.app
+t1275140923
+s306
+
+N/Users/jari/Desktop/iShouso/build/Debug-iphonesimulator/iShouso.app.dSYM
+t1275140923
+s102
+
+N/Users/jari/Desktop/iShouso/build/Debug-iphonesimulator/iShouso.app/Info.plist
+t1275140920
+s800
+
+N/Users/jari/Desktop/iShouso/build/Debug-iphonesimulator/iShouso.app/MainWindow.nib
+t1275140921
+s1123
+
+N/Users/jari/Desktop/iShouso/build/Debug-iphonesimulator/iShouso.app/PkgInfo
+t1275140920
+s8
+
+N/Users/jari/Desktop/iShouso/build/Debug-iphonesimulator/iShouso.app/iShouso
+t1275140923
+s17476
+
+N/Users/jari/Desktop/iShouso/build/Debug-iphonesimulator/iShouso.app/iShousoViewController.nib
+t1275140921
+s764
+
+N/Users/jari/Desktop/iShouso/build/Debug-iphonesimulator/iShouso.app/icon.png
+t1275140921
+s8717
+
+N/Users/jari/Desktop/iShouso/build/Debug-iphonesimulator/iShouso.app/shouso.png
+t1275140921
+s29501
+
+N/Users/jari/Desktop/iShouso/build/iShouso.build/Debug-iphonesimulator/iShouso.build/Objects-normal/i386/iShouso.LinkFileList
+c000000004C011B38000000000000016C
+t1275140920
+s364
+
+N/Users/jari/Desktop/iShouso/build/iShouso.build/Debug-iphonesimulator/iShouso.build/Objects-normal/i386/iShousoAppDelegate.o
+t1275140922
+s45020
+
+N/Users/jari/Desktop/iShouso/build/iShouso.build/Debug-iphonesimulator/iShouso.build/Objects-normal/i386/iShousoViewController.o
+t1275140922
+s36928
+
+N/Users/jari/Desktop/iShouso/build/iShouso.build/Debug-iphonesimulator/iShouso.build/Objects-normal/i386/main.o
+t1275140922
+s6280
+
+N/Users/jari/Desktop/iShouso/iShousoViewController.xib
+c000000004C00F0EF0000000000003EE1
+t1275130095
+s16097
+
+N/Users/jari/Desktop/iShouso/iShouso_Prefix.pch
+c000000004C00F0EF00000000000000B7
+t1275130095
+s183
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/jari/Desktop/iShouso/icon.png
+c000000004BFBC82D000000000000220D
+t1274791981
+s8717
+
+N/Users/jari/Desktop/iShouso/main.m
+c000000004C00F0EF000000000000016B
+t1275130095
+s363
+i<UIKit/UIKit.h>
+
+N/Users/jari/Desktop/iShouso/shouso.png
+c000000004C011985000000000000733D
+t1275140485
+s29501
+
+N/var/folders/3B/3BBl9P4tGbWWqAOIOykUl++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iShouso_Prefix-baliubhpuimwneaorznjbwubqmjd/iShouso_Prefix.pch.gch
+t1275140922
+s13825936
+
+NiShouso-Info.plist
+c000000004C00F3290000000000000492
+t1275130665
+s1170
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies296833720#296833720#0(0"0(0#1#0"3343187568374212096#0"0#
+
+CCompileC build/iShouso.build/Debug-iphonesimulator/iShouso.build/Objects-normal/i386/iShousoAppDelegate.o /Users/jari/Desktop/iShouso/Classes/iShousoAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s296833722.304821
+e296833722.474588
+r1
+xCompileC
+xbuild/iShouso.build/Debug-iphonesimulator/iShouso.build/Objects-normal/i386/iShousoAppDelegate.o
+x/Users/jari/Desktop/iShouso/Classes/iShousoAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@64"Compile /Users/jari/Desktop/iShouso/Classes/iShousoAppDelegate.m296833722#296833722#0(0"0(0#0#56"/Users/jari/Desktop/iShouso/Classes/iShousoAppDelegate.m8615001952#1816"    cd /Users/jari/Desktop/iShouso    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/jari/Desktop/iShouso/build/iShouso.build/Debug-iphonesimulator/iShouso.build/iShouso-generated-files.hmap -I/Users/jari/Desktop/iShouso/build/iShouso.build/Debug-iphonesimulator/iShouso.build/iShouso-own-target-headers.hmap -I/Users/jari/Desktop/iShouso/build/iShouso.build/Debug-iphonesimulator/iShouso.build/iShouso-all-target-headers.hmap -iquote /Users/jari/Desktop/iShouso/build/iShouso.build/Debug-iphonesimulator/iShouso.build/iShouso-project-headers.hmap -F/Users/jari/Desktop/iShouso/build/Debug-iphonesimulator -I/Users/jari/Desktop/iShouso/build/Debug-iphonesimulator/include -I/Users/jari/Desktop/iShouso/build/iShouso.build/Debug-iphonesimulator/iShouso.build/DerivedSources/i386 -I/Users/jari/Desktop/iShouso/build/iShouso.build/Debug-iphonesimulator/iShouso.build/DerivedSources -include /var/folders/3B/3BBl9P4tGbWWqAOIOykUl++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iShouso_Prefix-baliubhpuimwneaorznjbwubqmjd/iShouso_Prefix.pch -c /Users/jari/Desktop/iShouso/Classes/iShousoAppDelegate.m -o /Users/jari/Desktop/iShouso/build/iShouso.build/Debug-iphonesimulator/iShouso.build/Objects-normal/i386/iShousoAppDelegate.o0#
+
+CCompileC build/iShouso.build/Debug-iphonesimulator/iShouso.build/Objects-normal/i386/iShousoViewController.o /Users/jari/Desktop/iShouso/Classes/iShousoViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s296833722.462168
+e296833722.526394
+r1
+xCompileC
+xbuild/iShouso.build/Debug-iphonesimulator/iShouso.build/Objects-normal/i386/iShousoViewController.o
+x/Users/jari/Desktop/iShouso/Classes/iShousoViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/jari/Desktop/iShouso/Classes/iShousoViewController.m: In function '-[iShousoViewController shouldAutorotateToInterfaceOrientation:]':
+o/Users/jari/Desktop/iShouso/Classes/iShousoViewController.m:65: warning: control reaches end of non-void function
+lSLF07#2@67"Compile /Users/jari/Desktop/iShouso/Classes/iShousoViewController.m296833722#296833722#0(255"/Users/jari/Desktop/iShouso/Classes/iShousoViewController.m: In function '-[iShousoViewController shouldAutorotateToInterfaceOrientation:]':/Users/jari/Desktop/iShouso/Classes/iShousoViewController.m:65: warning: control reaches end of non-void function1(22@40"Control reaches end of non-void function296833722#141#114#0(6@59"/Users/jari/Desktop/iShouso/Classes/iShousoViewController.m296833718#65#0#65#0#40"control reaches end of non-void function0(0#0#59"/Users/jari/Desktop/iShouso/Classes/iShousoViewController.m8603940320#1822"    cd /Users/jari/Desktop/iShouso    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/jari/Desktop/iShouso/build/iShouso.build/Debug-iphonesimulator/iShouso.build/iShouso-generated-files.hmap -I/Users/jari/Desktop/iShouso/build/iShouso.build/Debug-iphonesimulator/iShouso.build/iShouso-own-target-headers.hmap -I/Users/jari/Desktop/iShouso/build/iShouso.build/Debug-iphonesimulator/iShouso.build/iShouso-all-target-headers.hmap -iquote /Users/jari/Desktop/iShouso/build/iShouso.build/Debug-iphonesimulator/iShouso.build/iShouso-project-headers.hmap -F/Users/jari/Desktop/iShouso/build/Debug-iphonesimulator -I/Users/jari/Desktop/iShouso/build/Debug-iphonesimulator/include -I/Users/jari/Desktop/iShouso/build/iShouso.build/Debug-iphonesimulator/iShouso.build/DerivedSources/i386 -I/Users/jari/Desktop/iShouso/build/iShouso.build/Debug-iphonesimulator/iShouso.build/DerivedSources -include /var/folders/3B/3BBl9P4tGbWWqAOIOykUl++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iShouso_Prefix-baliubhpuimwneaorznjbwubqmjd/iShouso_Prefix.pch -c /Users/jari/Desktop/iShouso/Classes/iShousoViewController.m -o /Users/jari/Desktop/iShouso/build/iShouso.build/Debug-iphonesimulator/iShouso.build/Objects-normal/i386/iShousoViewController.o0#
+
+CCompileC build/iShouso.build/Debug-iphonesimulator/iShouso.build/Objects-normal/i386/main.o /Users/jari/Desktop/iShouso/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s296833722.303470
+e296833722.462070
+r1
+xCompileC
+xbuild/iShouso.build/Debug-iphonesimulator/iShouso.build/Objects-normal/i386/main.o
+x/Users/jari/Desktop/iShouso/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@42"Compile /Users/jari/Desktop/iShouso/main.m296833722#296833722#0(0"0(0#0#34"/Users/jari/Desktop/iShouso/main.m8615534528#1780"    cd /Users/jari/Desktop/iShouso    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/jari/Desktop/iShouso/build/iShouso.build/Debug-iphonesimulator/iShouso.build/iShouso-generated-files.hmap -I/Users/jari/Desktop/iShouso/build/iShouso.build/Debug-iphonesimulator/iShouso.build/iShouso-own-target-headers.hmap -I/Users/jari/Desktop/iShouso/build/iShouso.build/Debug-iphonesimulator/iShouso.build/iShouso-all-target-headers.hmap -iquote /Users/jari/Desktop/iShouso/build/iShouso.build/Debug-iphonesimulator/iShouso.build/iShouso-project-headers.hmap -F/Users/jari/Desktop/iShouso/build/Debug-iphonesimulator -I/Users/jari/Desktop/iShouso/build/Debug-iphonesimulator/include -I/Users/jari/Desktop/iShouso/build/iShouso.build/Debug-iphonesimulator/iShouso.build/DerivedSources/i386 -I/Users/jari/Desktop/iShouso/build/iShouso.build/Debug-iphonesimulator/iShouso.build/DerivedSources -include /var/folders/3B/3BBl9P4tGbWWqAOIOykUl++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iShouso_Prefix-baliubhpuimwneaorznjbwubqmjd/iShouso_Prefix.pch -c /Users/jari/Desktop/iShouso/main.m -o /Users/jari/Desktop/iShouso/build/iShouso.build/Debug-iphonesimulator/iShouso.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/jari/Desktop/iShouso/MainWindow.xib
+s296833720.569130
+e296833721.123564
+r1
+xCompileXIB
+x/Users/jari/Desktop/iShouso/MainWindow.xib
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+lSLF07#2@25"CompileXIB MainWindow.xib296833720#296833721#0(84"Couldn't open shared capabilities memory GSCapabilities (No such file or directory)0(0#0#42"/Users/jari/Desktop/iShouso/MainWindow.xib8615628864#537"    cd /Users/jari/Desktop/iShouso    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/jari/Desktop/iShouso/build/Debug-iphonesimulator/iShouso.app/MainWindow.nib /Users/jari/Desktop/iShouso/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk0#
+
+CCompileXIB /Users/jari/Desktop/iShouso/iShousoViewController.xib
+s296833720.595919
+e296833721.088347
+r1
+xCompileXIB
+x/Users/jari/Desktop/iShouso/iShousoViewController.xib
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+lSLF07#2@36"CompileXIB iShousoViewController.xib296833720#296833721#0(84"Couldn't open shared capabilities memory GSCapabilities (No such file or directory)0(0#0#53"/Users/jari/Desktop/iShouso/iShousoViewController.xib8615454688#559"    cd /Users/jari/Desktop/iShouso    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/jari/Desktop/iShouso/build/Debug-iphonesimulator/iShouso.app/iShousoViewController.nib /Users/jari/Desktop/iShouso/iShousoViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk0#
+
+CCpResource build/Debug-iphonesimulator/iShouso.app/icon.png icon.png
+s296833721.088441
+e296833721.131201
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/iShouso.app/icon.png
+xicon.png
+lSLF07#2@13"Copy icon.png296833721#296833721#0(0"0(0#0#36"/Users/jari/Desktop/iShouso/icon.png8604274528#419"    cd /Users/jari/Desktop/iShouso    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/jari/Desktop/iShouso/icon.png /Users/jari/Desktop/iShouso/build/Debug-iphonesimulator/iShouso.app0#
+
+CCpResource build/Debug-iphonesimulator/iShouso.app/shouso.png shouso.png
+s296833721.089484
+e296833721.114489
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/iShouso.app/shouso.png
+xshouso.png
+lSLF07#2@15"Copy shouso.png296833721#296833721#0(0"0(0#0#38"/Users/jari/Desktop/iShouso/shouso.png8615456448#421"    cd /Users/jari/Desktop/iShouso    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/jari/Desktop/iShouso/shouso.png /Users/jari/Desktop/iShouso/build/Debug-iphonesimulator/iShouso.app0#
+
+CGenerateDSYMFile /Users/jari/Desktop/iShouso/build/Debug-iphonesimulator/iShouso.app.dSYM /Users/jari/Desktop/iShouso/build/Debug-iphonesimulator/iShouso.app/iShouso
+s296833723.211004
+e296833723.274675
+r1
+xGenerateDSYMFile
+x/Users/jari/Desktop/iShouso/build/Debug-iphonesimulator/iShouso.app.dSYM
+x/Users/jari/Desktop/iShouso/build/Debug-iphonesimulator/iShouso.app/iShouso
+lSLF07#2@109"GenerateDSYMFile build/Debug-iphonesimulator/iShouso.app.dSYM build/Debug-iphonesimulator/iShouso.app/iShouso296833723#296833723#0(0"0(0#0#75"/Users/jari/Desktop/iShouso/build/Debug-iphonesimulator/iShouso.app/iShouso8615630112#350"    cd /Users/jari/Desktop/iShouso    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/jari/Desktop/iShouso/build/Debug-iphonesimulator/iShouso.app/iShouso -o /Users/jari/Desktop/iShouso/build/Debug-iphonesimulator/iShouso.app.dSYM0#
+
+CLd /Users/jari/Desktop/iShouso/build/Debug-iphonesimulator/iShouso.app/iShouso normal i386
+s296833722.526495
+e296833723.210901
+r1
+xLd
+x/Users/jari/Desktop/iShouso/build/Debug-iphonesimulator/iShouso.app/iShouso
+xnormal
+xi386
+lSLF07#2@80"Link /Users/jari/Desktop/iShouso/build/Debug-iphonesimulator/iShouso.app/iShouso296833722#296833723#0(0"0(0#0#0"29555074425553008#845"    cd /Users/jari/Desktop/iShouso    setenv MACOSX_DEPLOYMENT_TARGET 10.5    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -L/Users/jari/Desktop/iShouso/build/Debug-iphonesimulator -F/Users/jari/Desktop/iShouso/build/Debug-iphonesimulator -filelist /Users/jari/Desktop/iShouso/build/iShouso.build/Debug-iphonesimulator/iShouso.build/Objects-normal/i386/iShouso.LinkFileList -mmacosx-version-min=10.5 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/jari/Desktop/iShouso/build/Debug-iphonesimulator/iShouso.app/iShouso0#
+
+CProcessInfoPlistFile /Users/jari/Desktop/iShouso/build/Debug-iphonesimulator/iShouso.app/Info.plist iShouso-Info.plist
+s296833720.539221
+e296833720.569027
+r1
+xProcessInfoPlistFile
+x/Users/jari/Desktop/iShouso/build/Debug-iphonesimulator/iShouso.app/Info.plist
+xiShouso-Info.plist
+lSLF07#2@26"Process iShouso-Info.plist296833720#296833720#0(0"0(0#0#46"/Users/jari/Desktop/iShouso/iShouso-Info.plist32088624093986912#446"    cd /Users/jari/Desktop/iShouso    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility iShouso-Info.plist -genpkginfo /Users/jari/Desktop/iShouso/build/Debug-iphonesimulator/iShouso.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/jari/Desktop/iShouso/build/Debug-iphonesimulator/iShouso.app/Info.plist0#
+
+CProcessPCH /var/folders/3B/3BBl9P4tGbWWqAOIOykUl++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iShouso_Prefix-baliubhpuimwneaorznjbwubqmjd/iShouso_Prefix.pch.gch iShouso_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s296833721.131649
+e296833722.303273
+r1
+xProcessPCH
+x/var/folders/3B/3BBl9P4tGbWWqAOIOykUl++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iShouso_Prefix-baliubhpuimwneaorznjbwubqmjd/iShouso_Prefix.pch.gch
+xiShouso_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@29"Precompile iShouso_Prefix.pch296833721#296833722#0(0"0(0#0#46"/Users/jari/Desktop/iShouso/iShouso_Prefix.pch8599425344#1683"    cd /Users/jari/Desktop/iShouso    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/jari/Desktop/iShouso/build/iShouso.build/Debug-iphonesimulator/iShouso.build/iShouso-generated-files.hmap -I/Users/jari/Desktop/iShouso/build/iShouso.build/Debug-iphonesimulator/iShouso.build/iShouso-own-target-headers.hmap -I/Users/jari/Desktop/iShouso/build/iShouso.build/Debug-iphonesimulator/iShouso.build/iShouso-all-target-headers.hmap -iquote /Users/jari/Desktop/iShouso/build/iShouso.build/Debug-iphonesimulator/iShouso.build/iShouso-project-headers.hmap -F/Users/jari/Desktop/iShouso/build/Debug-iphonesimulator -I/Users/jari/Desktop/iShouso/build/Debug-iphonesimulator/include -I/Users/jari/Desktop/iShouso/build/iShouso.build/Debug-iphonesimulator/iShouso.build/DerivedSources/i386 -I/Users/jari/Desktop/iShouso/build/iShouso.build/Debug-iphonesimulator/iShouso.build/DerivedSources -c /Users/jari/Desktop/iShouso/iShouso_Prefix.pch -o /var/folders/3B/3BBl9P4tGbWWqAOIOykUl++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iShouso_Prefix-baliubhpuimwneaorznjbwubqmjd/iShouso_Prefix.pch.gch0#
+
+CTouch /Users/jari/Desktop/iShouso/build/Debug-iphonesimulator/iShouso.app
+s296833723.274769
+e296833723.277793
+r1
+xTouch
+x/Users/jari/Desktop/iShouso/build/Debug-iphonesimulator/iShouso.app
+lSLF07#2@73"Touch /Users/jari/Desktop/iShouso/build/Debug-iphonesimulator/iShouso.app296833723#296833723#0(0"0(0#0#0"8615579872#256"    cd /Users/jari/Desktop/iShouso    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/jari/Desktop/iShouso/build/Debug-iphonesimulator/iShouso.app0#
+

@@ -1,0 +1,256 @@
+// !$*UTF8*$!
+{
+	1D3623240D0F684500981E51 /* iShousoAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {696, 456}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 473}";
+		};
+	};
+	1D3623250D0F684500981E51 /* iShousoAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1965, 979}}";
+			sepNavSelRange = "{590, 0}";
+			sepNavVisRange = "{1264, 825}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* iShouso */ = {
+		activeExec = 0;
+		executables = (
+			49328EFC11B1286F00B1D232 /* iShouso */,
+		);
+	};
+	28D7ACF60DDB3853001CB0EB /* iShousoViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {696, 456}}";
+			sepNavSelRange = "{287, 0}";
+			sepNavVisRange = "{0, 295}";
+		};
+	};
+	28D7ACF70DDB3853001CB0EB /* iShousoViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {712, 1731}}";
+			sepNavSelRange = "{1415, 0}";
+			sepNavVisRange = "{0, 784}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 49328EFC11B1286F00B1D232 /* iShouso */;
+		activeSDKPreference = iphoneos3.2;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* iShouso */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* iShouso */,
+		);
+		codeSenseManager = 49328F0611B1287B00B1D232 /* Code sense */;
+		executables = (
+			49328EFC11B1286F00B1D232 /* iShouso */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					518,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 296893661;
+			PBXWorkspaceStateSaveDate = 296893661;
+		};
+		perUserProjectItems = {
+			491C6C1811B152BC00BB877B = 491C6C1811B152BC00BB877B /* PBXTextBookmark */;
+			491C6CA911B1C1E200BB877B = 491C6CA911B1C1E200BB877B /* PBXTextBookmark */;
+			491C6CAA11B1C1E200BB877B = 491C6CAA11B1C1E200BB877B /* PBXTextBookmark */;
+			491C6CC011B1C5C600BB877B = 491C6CC011B1C5C600BB877B /* PBXBookmark */;
+			491C6CC111B1C5C600BB877B = 491C6CC111B1C5C600BB877B /* PlistBookmark */;
+			491C6CC211B1C5C600BB877B = 491C6CC211B1C5C600BB877B /* PBXTextBookmark */;
+			491C6CC311B1C5C600BB877B = 491C6CC311B1C5C600BB877B /* PBXTextBookmark */;
+			491C6CC411B1C5C600BB877B = 491C6CC411B1C5C600BB877B /* PBXTextBookmark */;
+			491C6CCE11B1D61E00BB877B = 491C6CCE11B1D61E00BB877B /* PBXTextBookmark */;
+			4931C59511B23CDF004F8EA9 /* PBXTextBookmark */ = 4931C59511B23CDF004F8EA9 /* PBXTextBookmark */;
+			49A7932811B1F7DB001AE374 = 49A7932811B1F7DB001AE374 /* PBXTextBookmark */;
+		};
+		sourceControlManager = 49328F0511B1287B00B1D232 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	29B97316FDCFA39411CA2CEA /* main.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {696, 456}}";
+			sepNavSelRange = "{28, 0}";
+			sepNavVisRange = "{0, 355}";
+		};
+	};
+	491C6C1811B152BC00BB877B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 491C6C1911B152BC00BB877B /* iShousoViewController.m */;
+		name = "iShousoViewController.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1135;
+		vrLoc = 637;
+	};
+	491C6C1911B152BC00BB877B /* iShousoViewController.m */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.objc;
+		name = iShousoViewController.m;
+		path = /Users/jari/Desktop/iShousoViewController.m;
+		sourceTree = "<absolute>";
+	};
+	491C6CA911B1C1E200BB877B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* iShousoAppDelegate.h */;
+		name = "iShousoAppDelegate.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 473;
+		vrLoc = 0;
+	};
+	491C6CAA11B1C1E200BB877B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* iShousoAppDelegate.m */;
+		name = "iShousoAppDelegate.m: 24";
+		rLen = 0;
+		rLoc = 590;
+		rType = 0;
+		vrLen = 825;
+		vrLoc = 1264;
+	};
+	491C6CC011B1C5C600BB877B /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 49328F0E11B12AF000B1D232 /* icon.png */;
+	};
+	491C6CC111B1C5C600BB877B /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* iShouso-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+			NSMainNibFile,
+		);
+		name = "/Users/jari/Desktop/iShouso/iShouso-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775808;
+	};
+	491C6CC211B1C5C600BB877B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 29B97316FDCFA39411CA2CEA /* main.m */;
+		name = "main.m: 4";
+		rLen = 0;
+		rLoc = 28;
+		rType = 0;
+		vrLen = 355;
+		vrLoc = 0;
+	};
+	491C6CC311B1C5C600BB877B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* iShousoViewController.h */;
+		name = "iShousoViewController.h: 15";
+		rLen = 0;
+		rLoc = 287;
+		rType = 0;
+		vrLen = 295;
+		vrLoc = 0;
+	};
+	491C6CC411B1C5C600BB877B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* iShousoViewController.m */;
+		name = "iShousoViewController.m: 64";
+		rLen = 0;
+		rLoc = 2108;
+		rType = 0;
+		vrLen = 983;
+		vrLoc = 908;
+	};
+	491C6CCE11B1D61E00BB877B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* iShousoViewController.m */;
+		name = "iShousoViewController.m: 63";
+		rLen = 0;
+		rLoc = 1415;
+		rType = 0;
+		vrLen = 784;
+		vrLoc = 0;
+	};
+	4931C59511B23CDF004F8EA9 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* iShousoViewController.m */;
+		name = "iShousoViewController.m: 63";
+		rLen = 0;
+		rLoc = 1415;
+		rType = 0;
+		vrLen = 784;
+		vrLoc = 0;
+	};
+	49328EFC11B1286F00B1D232 /* iShouso */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = iShouso;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	49328F0511B1287B00B1D232 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	49328F0611B1287B00B1D232 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	49A7932811B1F7DB001AE374 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* iShousoViewController.m */;
+		name = "iShousoViewController.m: 63";
+		rLen = 0;
+		rLoc = 1415;
+		rType = 0;
+		vrLen = 784;
+		vrLoc = 0;
+	};
+}
