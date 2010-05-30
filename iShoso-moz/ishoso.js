@@ -3,7 +3,7 @@ var orient = function(ori) {
   document.getElementById('ori-y').innerHTML = ori.y;
   document.getElementById('ori-z').innerHTML = ori.z;
 
-  document.getElementById('shoso').setAttribute('style', "-moz-transform: rotate(" + -1 * (ori.x * 90) + "deg);");
+  document.getElementById('shoso').style.MozTransform = 'rotate(' + -1 * (ori.x * 90) + 'deg)';
 };
 
 window.addEventListener("load", function(){

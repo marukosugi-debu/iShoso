@@ -1,23 +1,32 @@
 <!DOCTYPE html>
 <html lang="ja">
 <head>
-<meta http-equiv="content-type" content="text/html; charset=UTF-8">
 <meta charset="utf-8">
 <script type="text/javascript" src="ishoso.js"></script>
-<title>ishoso for mozilla</title> 
+<title>iShoso for mozilla</title> 
+<style>
+#shoso {
+  width: 290px; 
+  height: 652px;
+  margin: auto;
+}
+#param {
+  position: absolute;
+  top: 30px;
+  left: 30px;
+}
+</style>
 </head>
 <body>
-<div>
-<p>x: <span id="ori-x"></span></p>
+<div id="param">
+  <p>
+    x: <span id="ori-x"></span><br />
+    y: <span id="ori-y"></span><br />
+    z: <span id="ori-z"></span>
+  </p>
 </div>
-<div>
-<p>y: <span id="ori-y"></span></p>
-</div>
-<div>
-<p>z: <span id="ori-z"></span></p>
-</div>
-<div id="shoso" style="width: 290px; height: 652px; margin: auto;">
-  <img src="shoso.png" id="shoso-img" />
+<div id="shoso">
+  <img src="shoso.png" alt="勝訴" />
 </div>
 </doby>
 </html>
