@@ -3,22 +3,34 @@
 <head>
 <meta charset="utf-8">
 <script type="text/javascript" src="ishoso.js"></script>
-<title>iShoso for mozilla</title> 
+<title>iShoso for Mozilla &amp; MacBook</title>
 <style>
 #judgement {
-  width: 290px; 
-  height: 652px;
+  width: 387px;
+  height: 870px;
   margin: auto;
+  z-index: -1;
 }
 #param {
   position: absolute;
   top: 30px;
   left: 30px;
+  width: 250px;
+  background-color: rgba(100, 100, 100, 0.5);
+  padding: 20px;
+  -moz-border-radius: 20px;
 }
 </style>
 </head>
 <body>
 <div id="param">
+  <h1>iShoso for Mozilla &amp; MacBook</h1>
+  <p>
+    Mac Book &amp; Firefox 3.5+ 限定<br />
+    Mac Book を回転させると勝訴の文字が回転します. <br />
+    逆さまにすると敗訴します. <br />
+    連絡先 <a href="http://twitter.com/cou929">@cou929</a>
+  </p>
   <p>
     x: <span id="ori-x"></span><br />
     y: <span id="ori-y"></span><br />
@@ -28,5 +40,5 @@
 <div id="judgement">
   <img src="shoso.png" alt="勝訴" id="judgement-img"/>
 </div>
-</doby>
+</body>
 </html>
