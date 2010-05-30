@@ -15,12 +15,15 @@ var orient = (function(ori) {
     }
     x = ori.x;
 
-    if (0.9 <= ori.x)
-      document.getElementById('shouso').innerHTML = '勝訴';
-    else if (-0.9 >= ori.x)
-      document.getElementById('shouso').innerHTML = '敗訴';
-    else
-      document.getElementById('shouso').innerHTML = '示談';
+//     if (0.9 <= ori.x)
+//       document.getElementById('shouso').innerHTML = '勝訴';
+//     else if (-0.9 >= ori.x)
+//       document.getElementById('shouso').innerHTML = '敗訴';
+//     else
+//       document.getElementById('shouso').innerHTML = '示談';
+
+    console.log("-moz-transform: rotate(" + (ori.x * 90) + "deg);");
+    document.getElementById('shoso').setAttribute('style', "-moz-transform: rotate(" + -1 * (ori.x * 90) + "deg);");
 
     var dst = document.getElementById('dst');
     dst.style.left = 100 + 100 * ori.x + "px";
